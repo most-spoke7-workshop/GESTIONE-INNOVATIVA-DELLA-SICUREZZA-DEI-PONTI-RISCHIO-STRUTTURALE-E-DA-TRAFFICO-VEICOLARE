@@ -2,122 +2,96 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- ## Venerdì 26 Settembre 2025 -->
+<h1> Venerdì 26 Settembre 2025 </h1>
+ 
+**Brescia – UNIBS, Aula Magna Economia, via San Faustino 74**
 
-[Link to another page](./another-page.html).
+I ponti sono tra gli elementi più vulnerabili delle reti stradali, poiché soggetti a sollecitazioni di varia natura che possono causare danni tali da richiederne la chiusura o, nel peggiore dei casi, provocarne il collasso. L'inagibilità di un ponte ha un forte impatto sulla mobilità, aumentando i tempi di percorrenza, congestionando il traffico e ostacolando il trasporto delle merci. Tra i principali fattori di rischio, il traffico pesante e il degrado strutturale rappresentano una minaccia crescente per la sicurezza dei ponti, specialmente in contesti con infrastrutture datate e carichi veicolari spesso superiori ai limiti progettuali.
+Questo workshop presenta le attività di ricerca dell’Università degli Studi di Brescia (UniBs) nell’ambito dello Spoke 7 “CCAM e Smart Infrastrutture” del MOST, con l’obiettivo di sviluppare un metodo innovativo per la valutazione e gestione in tempo reale del rischio legato al traffico pesante sui ponti. Il progetto integra competenze multidisciplinari di ingegneria dei trasporti, strutturale, delle reti e delle telecomunicazioni, oltre a strumenti di analisi statistica e ricerca operativa.
+Il sistema di monitoraggio prevede l’uso di dispositivi Weigh-In-Motion (WIM) per misurare il carico dei veicoli in transito e sensori per analizzare la risposta strutturale. Un ponte pilota, situato lungo la Tangenziale Sud di Brescia, una delle strade con il maggior traffico pesante in Italia, è stato strumentato per raccogliere dati utili alla calibrazione di modelli probabilistici di rischio.
+L’approccio proposto consente non solo di stimare in tempo reale il rischio indotto dal traffico pesante, ma anche di simulare azioni di deviazione dei mezzi pesanti prima del transito sul ponte monitorato. Sono inoltre previsti algoritmi per ottimizzare i percorsi alternativi e strategie di manutenzione mirate alla riduzione del rischio per i ponti in calcestruzzo armato e precompresso.
+Il workshop sarà un'occasione di confronto tra esperti del settore per discutere soluzioni innovative per la sicurezza e la gestione delle infrastrutture stradali.
 
-There should be whitespace between paragraphs.
+## PROGRAMMA
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+**Ore 10,00**   *Registrazione dei partecipanti*
 
-# Header 1
+**Ore 10,30**   *Saluti delle Autorità e degli Organizzatori*
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- Rappresentante della Provincia di Brescia 
+- Rappresentante del Comune di Brescia
+- Rappresentante dell’Ordine degli Ingegneri della Provincia di Brescia
+- Presidente del Centro Nazionale per la Mobilità Sostenibile MOST (Prof. Ferruccio Resta)
+- Coordinatore Nazionale dello Spoke 7 del MOST (Prof. Cino Bifulco)
 
-## Header 2
+**Ore 11,00** *Modera e introduce al tema*
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Prof.ssa Maria Grazia Speranza – Ordinario di Ricerca Operativa, Università degli Studi di Brescia, Coordinatrice dello Spoke 7 per UniBs.  
 
-### Header 3
+**Ore 11,15** *Il ruolo di ANSFISA nella gestione del rischio delle infrastrutture*
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Ing. Emanuele Renzi, Direzione Generale per la Sicurezza delle Infrastrutture Stradali e Autostradali di ANSFISA    
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+**Ore 11,35** *Linee Guida per la classificazione e gestione del rischio per i ponti esistenti: risultati e prodotti della sperimentazione svolta dal Consorzio ReLUIS*
 
-#### Header 4
+Prof. Mauro Dolce, Presidente del Consorzio Reluis
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+**Ore 11,55** *Transitabilità in tempo reale di ponti esistenti*
 
-##### Header 5
+Prof. Walter Salvatore, Presidente del Consorzio Fabre    
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**Ore 12,15** *Infrastrutture di trasporto critiche: innovazioni per il controllo e la resilienza di rete*
 
-###### Header 6
+Prof. Bernardino Chiaia – Ordinario di Scienza delle Costruzioni, Politecnico di Torino, Coordinatore del WP4 dello Spoke 7 a livello nazionale
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+**Ore 12,35** *Gestione e controllo del traffico in Ecosistema CCAM*
 
-### There's a horizontal rule below this.
+- Prof. Stefano De Luca – Ordinario di Tecnica ed Ingegneria dei Trasporti, Università degli Studi di Salerno, Coordinatore del WP3 dello Spoke 7 a livello nazionale.
+- Prof.ssa Roberta di Pace – Associata di Tecnica ed Ingegneria dei Trasporti, Università degli Studi di Salerno
 
-* * *
+**Ore 13,00   Light lunch**
 
-### Here is an unordered list:
+**Ore 14,30** *Monitoraggio innovativo integrato di un ponte in provincia di Brescia*
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Prof. Giovanni Plizzari, Prof. Fausto Minelli, Prof. Giovanni Metelli, Dott. Ivan Beltracchi, Dipartimento di Ingegneria Civile, Architettura, Territorio, Ambiente e di Matematica (DICATAM) dell’UniBS
 
-### And an ordered list:
+**Ore 14,45** *Verso una gestione in tempo reale del rischio di sovraccarico dei ponti indotto dai veicoli pesanti: il caso di studio di Brescia*
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+Prof. Giulio Maternini, Prof. Benedetto Barabino, Ing. Roberto Ventura, Dipartimento di Ingegneria Civile, Architettura, Territorio, Ambiente e di Matematica (DICATAM) dell’UniBS
 
-### And a nested list:
+**Ore 15,00** *Stima del rischio di sovraccarico di un ponte con un approccio statistico innovativo basato su dati WIM: Il caso studio di Brescia*
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+Prof. Maurizio Carpita, Dott. Mattia Cefis, Dipartimento di Economia e Management (DEM) dell’UniBs
 
-### Small image
+**Ore 15,15** *Re-routing dei flussi di traffico*
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+Prof.ssa Maria Grazia Speranza, Prof.ssa Valentina Morandi, dott. Lorenzo Peirano, Dipartimento di Economia e Management (DEM) dell’UniBs 
 
-### Large image
+**Ore 15,30** *Digital Twin: uso e opportunità nella gestione del traffico e delle infrastrutture*
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Prof. Renato Lo Cigno, Dott. Lorenzo Ghiro, Dipartimento di Ingegneria dell’Informazione (DII) dell’UniBs
+
+**Ore 15,45** *Esperienza dei fornitori/sponsor*
+
+**Ore 16,30 Coffee Break**
+
+**Ore 17,00** *Tavola Rotonda con rappresentanti degli enti problemi, sinergie, indicazioni*
+
+Moderatrice: Giuliana Mossoni, Giornalista presso il Giornale di Brescia
+
+Intervengono:
+
+- ANSFISA (Ing. Emanuele Renzi)
+- ANAS (Ing. Nicola Prisco)
+- Provincia di Brescia (Arch. Pierpaola Archini)
+- Comune di Brescia (Ing. Stefano Sbardella, Ing. Antonio Beniamino Costantino)
+
+**Ore 18:30** *Conclusione del workshop*
 
 
-### Definition lists can be used with HTML syntax.
+Il seminario è accreditato al rilascio di n. 5 CFP agli ingegneri per la partecipazione all’evento nella sua interezza. Il seminario prevede il pagamento di una quota organizzativa di 50 euro solo per gli ingegneri interessati al riconoscimento dei CFP.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+*Segreteria organizzativa:* Ing. Roberto Ventura (Chair), Ing. Ivan Beltracchi, Ing. Lorenzo Ghiro, Dott. Lorenzo Peirano, segreteria.workshop.spoke7@unibs.it
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+*Comitato Scientifico:* Prof.ssa Maria Grazia Speranza, Prof. Giovanni Plizzari, Prof. Renato Lo Cigno, Prof. Maurizio Carpita, Prof. Benedetto Barabino, Prof. Carlo Filippi
