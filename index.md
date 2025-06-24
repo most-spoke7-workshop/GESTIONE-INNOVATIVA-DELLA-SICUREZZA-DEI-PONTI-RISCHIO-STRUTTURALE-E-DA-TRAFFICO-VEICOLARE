@@ -30,7 +30,7 @@ Il workshop sarà un'occasione di confronto tra esperti del settore per discuter
 
 **Ore 11,00** *Modera e introduce al tema*
 
-Prof.ssa Maria Grazia Speranza – Ordinario di Ricerca Operativa, Università degli Studi di Brescia, Coordinatrice dello Spoke 7 per UniBs.  
+Prof.ssa Maria Grazia Speranza – Ordinaria di Ricerca Operativa, Università degli Studi di Brescia, Coordinatrice dello Spoke 7 per UniBs.  
 
 **Ore 11,15** *Il ruolo di ANSFISA nella gestione del rischio delle infrastrutture*
 
