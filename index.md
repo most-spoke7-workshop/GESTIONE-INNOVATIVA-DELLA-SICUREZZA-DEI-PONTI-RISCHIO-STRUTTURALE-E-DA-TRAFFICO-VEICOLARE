@@ -7,6 +7,9 @@ layout: default
  
 **Brescia – UNIBS, Aula Magna Economia, via San Faustino 74**
 
+![MOST Logo]({{ site.baseurl }}/assets/images/logo-most.jpg "MOST Logo"){: width="250" }
+![ANSFISA Logo]({{ site.baseurl }}/assets/images/logo-ansfisa.png "ANSFISA Logo"){: width="250" }
+
 I ponti sono tra gli elementi più vulnerabili delle reti stradali, poiché soggetti a sollecitazioni di varia natura che possono causare danni tali da richiederne la chiusura o, nel peggiore dei casi, provocarne il collasso. L'inagibilità di un ponte ha un forte impatto sulla mobilità, aumentando i tempi di percorrenza, congestionando il traffico e ostacolando il trasporto delle merci. Tra i principali fattori di rischio, il traffico pesante e il degrado strutturale rappresentano una minaccia crescente per la sicurezza dei ponti, specialmente in contesti con infrastrutture datate e carichi veicolari spesso superiori ai limiti progettuali.
 Questo workshop presenta le attività di ricerca dell’Università degli Studi di Brescia (UniBs) nell’ambito dello Spoke 7 “CCAM e Smart Infrastrutture” del MOST, con l’obiettivo di sviluppare un metodo innovativo per la valutazione e gestione in tempo reale del rischio legato al traffico pesante sui ponti. Il progetto integra competenze multidisciplinari di ingegneria dei trasporti, strutturale, delle reti e delle telecomunicazioni, oltre a strumenti di analisi statistica e ricerca operativa.
 Il sistema di monitoraggio prevede l’uso di dispositivi Weigh-In-Motion (WIM) per misurare il carico dei veicoli in transito e sensori per analizzare la risposta strutturale. Un ponte pilota, situato lungo la Tangenziale Sud di Brescia, una delle strade con il maggior traffico pesante in Italia, è stato strumentato per raccogliere dati utili alla calibrazione di modelli probabilistici di rischio.
@@ -66,7 +69,7 @@ Prof. Maurizio Carpita, Dott. Mattia Cefis, Dipartimento di Economia e Managemen
 
 **Ore 15,15** *Re-routing dei flussi di traffico*
 
-Prof.ssa Maria Grazia Speranza, Prof.ssa Valentina Morandi, dott. Lorenzo Peirano, Dipartimento di Economia e Management (DEM) dell’UniBs 
+Prof.ssa Maria Grazia Speranza, Prof.ssa Valentina Morandi, Dott. Lorenzo Peirano, Dipartimento di Economia e Management (DEM) dell’UniBs 
 
 **Ore 15,30** *Digital Twin: uso e opportunità nella gestione del traffico e delle infrastrutture*
 
@@ -76,7 +79,7 @@ Prof. Renato Lo Cigno, Dott. Lorenzo Ghiro, Dipartimento di Ingegneria dell’In
 
 **Ore 16,30 Coffee Break**
 
-**Ore 17,00** *Tavola Rotonda con rappresentanti degli enti problemi, sinergie, indicazioni*
+**Ore 17,00** *Tavola Rotonda con rappresentanti degli enti: problemi, sinergie, indicazioni*
 
 Moderatrice: Giuliana Mossoni, Giornalista presso il Giornale di Brescia
 
@@ -92,6 +95,6 @@ Intervengono:
 
 Il seminario è accreditato al rilascio di n. 5 CFP agli ingegneri per la partecipazione all’evento nella sua interezza. Il seminario prevede il pagamento di una quota organizzativa di 50 euro solo per gli ingegneri interessati al riconoscimento dei CFP.
 
-*Segreteria organizzativa:* Ing. Roberto Ventura (Chair), Ing. Ivan Beltracchi, Ing. Lorenzo Ghiro, Dott. Lorenzo Peirano, segreteria.workshop.spoke7@unibs.it
+*Segreteria organizzativa:* Ing. Roberto Ventura (Chair), Prof.ssa Valentina Morandi, Ing. Ivan Beltracchi, Dott. Lorenzo Ghiro, Dott. Lorenzo Peirano, segreteria.workshop.spoke7@unibs.it
 
 *Comitato Scientifico:* Prof.ssa Maria Grazia Speranza, Prof. Giovanni Plizzari, Prof. Renato Lo Cigno, Prof. Maurizio Carpita, Prof. Benedetto Barabino, Prof. Carlo Filippi
