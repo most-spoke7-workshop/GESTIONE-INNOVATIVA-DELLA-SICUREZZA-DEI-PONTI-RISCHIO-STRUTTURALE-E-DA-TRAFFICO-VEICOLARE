@@ -8,9 +8,9 @@ layout: default
 **Brescia – UNIBS, Aula Magna Economia, via San Faustino 74**
 
 ![MOST Logo]({{ site.baseurl }}/assets/images/logo-most.jpg "MOST Logo"){: width="250" }
-![ANSFISA Logo]({{ site.baseurl }}/assets/images/logo-ansfisa.png "ANSFISA Logo"){: width="250" }
+<!--![ANSFISA Logo]({{ site.baseurl }}/assets/images/logo-ansfisa.png "ANSFISA Logo"){: width="250" }-->
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTk7WxXNbO-E31AQySKyOiuSxBz8CsaumT_iTfTygInU4PAw/viewform?embedded=true" width="700" height="1300" frameborder="0" marginheight="0" marginwidth="0">	
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTk7WxXNbO-E31AQySKyOiuSxBz8CsaumT_iTfTygInU4PAw/viewform?embedded=true" width="700" height="1000" frameborder="0" marginheight="0" marginwidth="0">	
 </iframe>
 
 
