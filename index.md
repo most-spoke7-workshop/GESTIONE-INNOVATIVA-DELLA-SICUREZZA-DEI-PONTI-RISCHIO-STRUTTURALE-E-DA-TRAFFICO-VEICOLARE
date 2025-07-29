@@ -18,10 +18,10 @@ layout: default
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTk7WxXNbO-E31AQySKyOiuSxBz8CsaumT_iTfTygInU4PAw/viewform?embedded=true" width="700" height="1300" frameborder="0" marginheight="0" marginwidth="0">	
 </iframe>
 
-<iframe src="/assets/locandina.pdf" width="100%" height="500px"></iframe>
+<iframe src="{{ site.baseurl }}/assets/locandina.pdf" width="100%" height="500px"></iframe>
 
 <p style="text-align: right; margin-top: 10px;">
-  <a href="/assets/locandina.pdf" download>📥 Scarica il PDF</a>
+  <a href="{{ site.baseurl }}/assets/locandina.pdf" download>📥 Scarica il PDF</a>
 </p>
 
 <!-- I ponti sono tra gli elementi più vulnerabili delle reti stradali, poiché soggetti a sollecitazioni di varia natura che possono causare danni tali da richiederne la chiusura o, nel peggiore dei casi, provocarne il collasso. L'inagibilità di un ponte ha un forte impatto sulla mobilità, aumentando i tempi di percorrenza, congestionando il traffico e ostacolando il trasporto delle merci. Tra i principali fattori di rischio, il traffico pesante e il degrado strutturale rappresentano una minaccia crescente per la sicurezza dei ponti, specialmente in contesti con infrastrutture datate e carichi veicolari spesso superiori ai limiti progettuali.
