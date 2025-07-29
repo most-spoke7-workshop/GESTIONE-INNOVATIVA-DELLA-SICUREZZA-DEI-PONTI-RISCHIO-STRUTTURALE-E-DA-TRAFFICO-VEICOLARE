@@ -7,15 +7,24 @@ layout: default
  
 **Brescia – UNIBS, Aula Magna Economia, via San Faustino 74**
 
-![MOST Logo]({{ site.baseurl }}/assets/images/logo-most.jpg "MOST Logo"){: width="250" }
+![MOST Logo]({{ site.baseurl }}/assets/images/logo-most.jpg "MOST Logo"){: width="250" style="padding-right: 20px;" }
+![MUR Logo]({{ site.baseurl }}/assets/images/logo-mur.png "MUR Logo"){: width="140" style="padding-right: 20px;" }
+![UNIBS Logo]({{ site.baseurl }}/assets/images/logo-unibs.png "UNIBS Logo"){: width="250" style="padding-right: 20px;" }
+
 <!--![ANSFISA Logo]({{ site.baseurl }}/assets/images/logo-ansfisa.png "ANSFISA Logo"){: width="250" }-->
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTk7WxXNbO-E31AQySKyOiuSxBz8CsaumT_iTfTygInU4PAw/viewform?embedded=true" width="700" height="1000" frameborder="0" marginheight="0" marginwidth="0">	
+
+## Locandina e Programma
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTk7WxXNbO-E31AQySKyOiuSxBz8CsaumT_iTfTygInU4PAw/viewform?embedded=true" width="700" height="1300" frameborder="0" marginheight="0" marginwidth="0">	
 </iframe>
 
+<iframe src="/assets/locandina.pdf" width="100%" height="500px"></iframe>
 
+<p style="text-align: right; margin-top: 10px;">
+  <a href="/assets/locandina.pdf" download>📥 Scarica il PDF</a>
+</p>
 
-I ponti sono tra gli elementi più vulnerabili delle reti stradali, poiché soggetti a sollecitazioni di varia natura che possono causare danni tali da richiederne la chiusura o, nel peggiore dei casi, provocarne il collasso. L'inagibilità di un ponte ha un forte impatto sulla mobilità, aumentando i tempi di percorrenza, congestionando il traffico e ostacolando il trasporto delle merci. Tra i principali fattori di rischio, il traffico pesante e il degrado strutturale rappresentano una minaccia crescente per la sicurezza dei ponti, specialmente in contesti con infrastrutture datate e carichi veicolari spesso superiori ai limiti progettuali.
+<!-- I ponti sono tra gli elementi più vulnerabili delle reti stradali, poiché soggetti a sollecitazioni di varia natura che possono causare danni tali da richiederne la chiusura o, nel peggiore dei casi, provocarne il collasso. L'inagibilità di un ponte ha un forte impatto sulla mobilità, aumentando i tempi di percorrenza, congestionando il traffico e ostacolando il trasporto delle merci. Tra i principali fattori di rischio, il traffico pesante e il degrado strutturale rappresentano una minaccia crescente per la sicurezza dei ponti, specialmente in contesti con infrastrutture datate e carichi veicolari spesso superiori ai limiti progettuali.
 Questo workshop presenta le attività di ricerca dell’Università degli Studi di Brescia (UniBs) nell’ambito dello Spoke 7 “CCAM e Smart Infrastrutture” del MOST, con l’obiettivo di sviluppare un metodo innovativo per la valutazione e gestione in tempo reale del rischio legato al traffico pesante sui ponti. Il progetto integra competenze multidisciplinari di ingegneria dei trasporti, strutturale, delle reti e delle telecomunicazioni, oltre a strumenti di analisi statistica e ricerca operativa.
 Il sistema di monitoraggio prevede l’uso di dispositivi Weigh-In-Motion (WIM) per misurare il carico dei veicoli in transito e sensori per analizzare la risposta strutturale. Un ponte pilota, situato lungo la Tangenziale Sud di Brescia, una delle strade con il maggior traffico pesante in Italia, è stato strumentato per raccogliere dati utili alla calibrazione di modelli probabilistici di rischio.
 L’approccio proposto consente non solo di stimare in tempo reale il rischio indotto dal traffico pesante, ma anche di simulare azioni di deviazione dei mezzi pesanti prima del transito sul ponte monitorato. Sono inoltre previsti algoritmi per ottimizzare i percorsi alternativi e strategie di manutenzione mirate alla riduzione del rischio per i ponti in calcestruzzo armato e precompresso.
@@ -95,8 +104,9 @@ Intervengono:
 - Provincia di Brescia (Arch. Pierpaola Archini)
 - Comune di Brescia (Ing. Stefano Sbardella, Ing. Antonio Beniamino Costantino)
 
-**Ore 18:30** *Conclusione del workshop*
+**Ore 18:30** *Conclusione del workshop* -->
 
+## Note organizzative
 
 Il seminario è accreditato al rilascio di n. 5 CFP agli ingegneri per la partecipazione all’evento nella sua interezza. Il seminario prevede il pagamento di una quota organizzativa di 50 euro solo per gli ingegneri interessati al riconoscimento dei CFP.
 
