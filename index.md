@@ -115,6 +115,6 @@ Il seminario è accreditato per il riconoscimento di n. 5 CFP agli ingegneri, pr
 È previsto il pagamento di una quota organizzativa esclusivamente per gli ingegneri interessati ai CFP, secondo la
 procedura gestita tramite il portale formazione del CNI: https://www.formazionecni.it
 
-*Segreteria organizzativa:* Ing. Roberto Ventura (Chair), Prof.ssa Valentina Morandi, Ing. Ivan Beltracchi, Dott. Lorenzo Ghiro, Dott. Lorenzo Peirano, segreteria.workshop.spoke7@unibs.it
+*Segreteria organizzativa:* Ing. Roberto Ventura (Chair), Ing. Ivan Beltracchi, Dott. Lorenzo Ghiro, Dott. Lorenzo Peirano, segreteria.workshop.spoke7@unibs.it
 
 *Comitato Scientifico:* Prof.ssa M. Grazia Speranza (Chair), Prof. Benedetto Barabino, Prof. Maurizio Carpita, Prof. Carlo Filippi, Prof. Renato Lo Cigno, Dott.ssa, Valentina Morandi, Prof. Giovanni Plizzari
