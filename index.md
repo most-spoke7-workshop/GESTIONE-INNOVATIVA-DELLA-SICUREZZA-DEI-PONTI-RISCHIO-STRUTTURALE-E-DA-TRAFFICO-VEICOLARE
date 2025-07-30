@@ -9,7 +9,7 @@ layout: default
 
 ![MOST Logo]({{ site.baseurl }}/assets/images/logo-most.jpg "MOST Logo"){: width="250" style="padding-right: 20px;" }
 ![MUR Logo]({{ site.baseurl }}/assets/images/logo-mur.png "MUR Logo"){: width="140" style="padding-right: 20px;" }
-![ID Logo]({{ site.baseurl }}/assets/images/italiadomani-sfondo-bianco+blu.jpg "ID Logo"){: width="140" style="padding-right: 20px;" }
+![ID Logo]({{ site.baseurl }}/assets/images/italiadomani-sfondo-bianco+blu.jpg "ID Logo"){: width="250" style="padding-right: 20px;" }
 ![UNIBS Logo]({{ site.baseurl }}/assets/images/logo-unibs.png "UNIBS Logo"){: width="250" style="padding-right: 20px;" }
 
 
