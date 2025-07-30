@@ -108,8 +108,10 @@ Intervengono:
 
 ## Note organizzative
 
-Il seminario è accreditato al rilascio di n. 5 CFP agli ingegneri per la partecipazione all’evento nella sua interezza. Il seminario prevede il pagamento di una quota organizzativa di 50 euro solo per gli ingegneri interessati al riconoscimento dei CFP.
+Il seminario è accreditato per il riconoscimento di n. 5 CFP agli ingegneri, previa partecipazione all’intero evento.
+È previsto il pagamento di una quota organizzativa esclusivamente per gli ingegneri interessati ai CFP, secondo la
+procedura gestita tramite il portale formazione del CNI: https://www.formazionecni.it
 
 *Segreteria organizzativa:* Ing. Roberto Ventura (Chair), Prof.ssa Valentina Morandi, Ing. Ivan Beltracchi, Dott. Lorenzo Ghiro, Dott. Lorenzo Peirano, segreteria.workshop.spoke7@unibs.it
 
-*Comitato Scientifico:* Prof.ssa Maria Grazia Speranza, Prof. Giovanni Plizzari, Prof. Renato Lo Cigno, Prof. Maurizio Carpita, Prof. Benedetto Barabino, Prof. Carlo Filippi
+*Comitato Scientifico:* Prof.ssa M. Grazia Speranza (Chair), Prof. Benedetto Barabino, Prof. Maurizio Carpita, Prof. Carlo Filippi, Prof. Renato Lo Cigno, Dott.ssa, Valentina Morandi, Prof. Giovanni Plizzari
