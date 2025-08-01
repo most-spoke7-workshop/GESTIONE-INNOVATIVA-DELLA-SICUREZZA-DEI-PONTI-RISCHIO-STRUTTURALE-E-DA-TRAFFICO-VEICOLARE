@@ -13,7 +13,7 @@ layout: default
 ![UNIBS Logo]({{ site.baseurl }}/assets/images/logo-unibs.png "UNIBS Logo"){: width="750" style="padding-right: 20px;" }
 -->
 
-![TOTAL]({{ site.baseurl }}/assets/images/logototal.png "TOTAL Logo"){: width="250" style="padding-right: 20px;" }
+![TOTAL]({{ site.baseurl }}/assets/images/logototal.png "TOTAL Logo"){: style="max-width: 100%; height: auto;" }
 
 
 
