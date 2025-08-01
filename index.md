@@ -6,11 +6,14 @@ layout: default
 <h1> Venerdì 26 Settembre 2025 </h1>
  
 **Brescia – UNIBS, Aula Magna Economia, via San Faustino 74**
-
+<!--
 ![MOST Logo]({{ site.baseurl }}/assets/images/logo-most.jpg "MOST Logo"){: width="250" style="padding-right: 20px;" }
 ![MUR Logo]({{ site.baseurl }}/assets/images/logo-mur.png "MUR Logo"){: width="140" style="padding-right: 20px;" }
 ![ID Logo]({{ site.baseurl }}/assets/images/italiadomani-sfondo-bianco+blu.jpg "ID Logo"){: width="140" style="padding-right: 20px;" }
 ![UNIBS Logo]({{ site.baseurl }}/assets/images/logo-unibs.png "UNIBS Logo"){: width="250" style="padding-right: 20px;" }
+-->
+
+![TOTAL]({{ site.baseurl }}/assets/images/logototal.png "UNIBS Logo"){: width="700" style="padding-right: 20px;" }
 
 
 
