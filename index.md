@@ -17,7 +17,12 @@ layout: default
 
 
 
-<!--![ANSFISA Logo]({{ site.baseurl }}/assets/images/logo-ansfisa.png "ANSFISA Logo"){: width="250" }-->
+![ance Logo]({{ site.baseurl }}/assets/images/ance_logo.jpg "ance Logo"){: width="250" style="padding-left:20px;" }
+![bettoni Logo]({{ site.baseurl }}/assets/images/bettoni_logo.jpg "bettoni Logo"){: width="250" style="padding-left:20px;" }
+![bisonte Logo]({{ site.baseurl }}/assets/images/bisonte_logo.png "bisonte Logo"){: width="250" style="padding-left:20px;" }
+![hinfra Logo]({{ site.baseurl }}/assets/images/hinfra_logo.jpg "hinfra Logo"){: width="250" style="padding-left:20px;" }
+![italcementi Logo]({{ site.baseurl }}/assets/images/italcementi_logo.jpg "italcementi Logo"){: width="250" style="padding-left:20px;" }
+![mapei Logo]({{ site.baseurl }}/assets/images/mapei_logo.png "mapei Logo"){: width="250" style="padding-left:20px;" }
 
 
 ## Locandina e Programma
