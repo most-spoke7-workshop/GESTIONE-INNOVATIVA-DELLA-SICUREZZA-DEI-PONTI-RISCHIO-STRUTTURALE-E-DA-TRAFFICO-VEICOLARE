@@ -133,8 +133,9 @@ Intervengono:
 ## Note organizzative
 
 Il seminario è accreditato per il riconoscimento di n. 5 CFP agli ingegneri, previa partecipazione all’intero evento.
-È previsto il pagamento di una quota organizzativa esclusivamente per gli ingegneri interessati ai CFP, secondo la
-procedura gestita tramite il [portale formazione del CNI](https://www.formazionecni.it).
+La partecipazione al seminario è gratuita.
+<!-- È previsto il pagamento di una quota organizzativa esclusivamente per gli ingegneri interessati ai CFP, secondo la
+procedura gestita tramite il [portale formazione del CNI](https://www.formazionecni.it). -->
 
 *Segreteria organizzativa:* Ing. Roberto Ventura (Chair), Ing. Ivan Beltracchi, Dott. Lorenzo Ghiro, Dott. Lorenzo Peirano, [segreteria.workshop.spoke7@unibs.it](mailto:segreteria.workshop.spoke7@unibs.it).
 
