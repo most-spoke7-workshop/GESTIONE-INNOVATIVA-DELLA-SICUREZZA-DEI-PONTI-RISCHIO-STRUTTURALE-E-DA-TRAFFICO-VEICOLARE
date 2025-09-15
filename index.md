@@ -7,7 +7,7 @@ layout: default
  
 **Brescia – UNIBS, Aula Magna Economia, via San Faustino 74**
 <!--
-![MOST Logo]({{ site.baseurl }}/assets/images/logo-most.jpg "MOST Logo"){: width="250" style="padding-right: 20px;" }
+![MOST Logo]({{ site.baseurl }}/assets/images/logo-most.jpg "MOST Logo"){: width="200" style="padding-right: 20px;" }
 ![MUR Logo]({{ site.baseurl }}/assets/images/logo-mur.png "MUR Logo"){: width="140" style="padding-right: 20px;" }
 ![ID Logo]({{ site.baseurl }}/assets/images/italiadomani-sfondo-bianco+blu.jpg "ID Logo"){: width="140" style="padding-right: 20px;" }
 ![UNIBS Logo]({{ site.baseurl }}/assets/images/logo-unibs.png "UNIBS Logo"){: width="750" style="padding-right: 20px;" }
@@ -16,23 +16,36 @@ layout: default
 ![TOTAL]({{ site.baseurl }}/assets/images/logototal.png "TOTAL Logo"){: style="max-width: 100%; height: auto;" }
 
 
+![odsbs Logo]({{ site.baseurl }}/assets/images/odibs.jpg "odibs Logo"){: height="50" width="200" style="padding-left:20px;" }
+![fodsbs Logo]({{ site.baseurl }}/assets/images/fodibs.jpg "fodibs Logo"){: height="50" width="200" style="padding-left:20px;" }
+![ance Logo]({{ site.baseurl }}/assets/images/ance_logo.jpg "ance Logo"){: height="50" width="200" style="padding-left:20px;" }
+![bettoni Logo]({{ site.baseurl }}/assets/images/bettoni_logo.jpg "bettoni Logo"){: height="50" width="200" style="padding-left:20px;" }
+![bisonte Logo]({{ site.baseurl }}/assets/images/bisonte_logo.png "bisonte Logo"){: height="50" width="200" style="padding-left:20px;" }
+![hinfra Logo]({{ site.baseurl }}/assets/images/hinfra_logo.jpg "hinfra Logo"){: height="50" width="200" style="padding-left:20px;" }
+![italcementi Logo]({{ site.baseurl }}/assets/images/italcementi_logo.jpg "italcementi Logo"){: height="50" width="200" style="padding-left:20px;" }
+![mapei Logo]({{ site.baseurl }}/assets/images/mapei_logo.png "mapei Logo"){: height="50" width="200" style="padding-left:20px;" }
 
-![ance Logo]({{ site.baseurl }}/assets/images/ance_logo.jpg "ance Logo"){: width="250" style="padding-left:20px;" }
-![bettoni Logo]({{ site.baseurl }}/assets/images/bettoni_logo.jpg "bettoni Logo"){: width="250" style="padding-left:20px;" }
-![bisonte Logo]({{ site.baseurl }}/assets/images/bisonte_logo.png "bisonte Logo"){: width="250" style="padding-left:20px;" }
-![hinfra Logo]({{ site.baseurl }}/assets/images/hinfra_logo.jpg "hinfra Logo"){: width="250" style="padding-left:20px;" }
-![italcementi Logo]({{ site.baseurl }}/assets/images/italcementi_logo.jpg "italcementi Logo"){: width="250" style="padding-left:20px;" }
-![mapei Logo]({{ site.baseurl }}/assets/images/mapei_logo.png "mapei Logo"){: width="250" style="padding-left:20px;" }
 
+## Registrazione
 
-## Locandina e Programma
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTk7WxXNbO-E31AQySKyOiuSxBz8CsaumT_iTfTygInU4PAw/viewform?embedded=true" width="700" height="1300" frameborder="0" marginheight="0" marginwidth="0">	
+Per partecipare
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScTk7WxXNbO-E31AQySKyOiuSxBz8CsaumT_iTfTygInU4PAw/viewform" target="_blank" style="display:inline-block; padding:5px 10px; background:#007BFF; color:white; text-decoration:none; border-radius:8px; margin-left:5px;">
+  Compila il form di Registrazione
+</a>
+
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTk7WxXNbO-E31AQySKyOiuSxBz8CsaumT_iTfTygInU4PAw/viewform?embedded=true" width="700" height="1300" frameborder="0" marginheight="0" marginwidth="0">	
 </iframe>
+ -->
+## Locandina e Programma
 
 <iframe src="{{ site.baseurl }}/assets/locandina.pdf" width="100%" height="500px"></iframe>
 
 <p style="text-align: right; margin-top: 10px;">
   <a href="{{ site.baseurl }}/assets/locandina.pdf" download>📥 Scarica il PDF</a>
+</p>
+
+<p style="text-align: right; margin-top: 10px;">
+  <a href="{{ site.baseurl }}/assets/Template_Presentazioni.pptx" download>📥 Scarica il Template PPTX</a>
 </p>
 
 <!-- I ponti sono tra gli elementi più vulnerabili delle reti stradali, poiché soggetti a sollecitazioni di varia natura che possono causare danni tali da richiederne la chiusura o, nel peggiore dei casi, provocarne il collasso. L'inagibilità di un ponte ha un forte impatto sulla mobilità, aumentando i tempi di percorrenza, congestionando il traffico e ostacolando il trasporto delle merci. Tra i principali fattori di rischio, il traffico pesante e il degrado strutturale rappresentano una minaccia crescente per la sicurezza dei ponti, specialmente in contesti con infrastrutture datate e carichi veicolari spesso superiori ai limiti progettuali.
@@ -121,8 +134,8 @@ Intervengono:
 
 Il seminario è accreditato per il riconoscimento di n. 5 CFP agli ingegneri, previa partecipazione all’intero evento.
 È previsto il pagamento di una quota organizzativa esclusivamente per gli ingegneri interessati ai CFP, secondo la
-procedura gestita tramite il portale formazione del CNI: https://www.formazionecni.it
+procedura gestita tramite il [portale formazione del CNI](https://www.formazionecni.it).
 
-*Segreteria organizzativa:* Ing. Roberto Ventura (Chair), Ing. Ivan Beltracchi, Dott. Lorenzo Ghiro, Dott. Lorenzo Peirano, segreteria.workshop.spoke7@unibs.it
+*Segreteria organizzativa:* Ing. Roberto Ventura (Chair), Ing. Ivan Beltracchi, Dott. Lorenzo Ghiro, Dott. Lorenzo Peirano, [segreteria.workshop.spoke7@unibs.it](mailto:segreteria.workshop.spoke7@unibs.it).
 
 *Comitato Scientifico:* Prof.ssa M. Grazia Speranza (Chair), Prof. Benedetto Barabino, Prof. Maurizio Carpita, Prof. Carlo Filippi, Prof. Renato Lo Cigno, Dott.ssa, Valentina Morandi, Prof. Giovanni Plizzari
