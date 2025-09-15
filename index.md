@@ -5,7 +5,7 @@ layout: default
 <!-- ## Venerdì 26 Settembre 2025 -->
 <h1> Venerdì 26 Settembre 2025 </h1>
  
-**Brescia – UNIBS, Aula Magna Economia, via San Faustino 74**
+**Brescia – UNIBS, Aula Magna [Dipartimento di Economia, via San Faustino 74 🚕📍](https://maps.app.goo.gl/yo8TvJVo17bqkq2c9)**
 <!--
 ![MOST Logo]({{ site.baseurl }}/assets/images/logo-most.jpg "MOST Logo"){: width="200" style="padding-right: 20px;" }
 ![MUR Logo]({{ site.baseurl }}/assets/images/logo-mur.png "MUR Logo"){: width="140" style="padding-right: 20px;" }
